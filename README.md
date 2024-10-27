@@ -11,7 +11,7 @@
 # 🚀 Tecnologias & Ferramentas:          
 Linguagens: Python (com foco em automação e análise de dados)          
 Ferramentas: Git, VS Code, Pandas, NumPy        
-Em aprendizado: HTML & CSS, JAVA
+Em aprendizado: HTML & CSS, JAVA, FIREBASE
 
 # 📂 Projetos Principais
 Aqui estão alguns dos projetos que mais representam o que estou aprendendo e desenvolvendo:

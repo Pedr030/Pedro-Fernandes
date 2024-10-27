@@ -8,7 +8,7 @@
 
 📈 Sempre em busca de novos aprendizados e projetos práticos para desenvolver habilidades e colaborar com times incríveis.
 
-🚀 Tecnologias & Ferramentas:          
+# 🚀 Tecnologias & Ferramentas:          
 Linguagens: Python (com foco em automação e análise de dados)          
 Ferramentas: Git, VS Code, Pandas, NumPy        
 Em aprendizado: HTML & CSS, JAVA
